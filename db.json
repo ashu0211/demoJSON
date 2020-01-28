@@ -11,48 +11,48 @@
 	},
 	"logs":{
 		1: {
-			date: "10/11/2020",
-			address: "Plot no.11/C/9, Bainganwadi, Govandi, Mumbai 400043",
-			timein: "12.00",
-			timeout: "6.00"
+			"date": "10/11/2020",
+			"address": "Plot no.11/C/9, Bainganwadi, Govandi, Mumbai 400043",
+			"timein": "12.00",
+			"timeout": "6.00"
 		},
 		2: {
-			date: "12/01/2020",
-			address: "Plot no.11/C/9, Bainganwadi, Govandi, Mumbai 400043",
-			timein: "11.00",
-			timeout: "5.00"
+			"date": "12/01/2020",
+			"address": "Plot no.11/C/9, Bainganwadi, Govandi, Mumbai 400043",
+			"timein": "11.00",
+			"timeout": "5.00"
 		},
 		3: {
-			date: "19/01/2020",
-			address: "Plot no.11/C/9, Bainganwadi, Govandi, Mumbai 400043",
-			timein: "10.00",
-			timeout: "4.00"
+			"date": "19/01/2020",
+			"address": "Plot no.11/C/9, Bainganwadi, Govandi, Mumbai 400043",
+			"timein": "10.00",
+			"timeout": "4.00"
 		}
 	},
 	"visitlogs":{
 		1: {
-			date: "10/11/2012",
-			person: "Ashutosh Kalambe",
-			visitin: "10.00",
-			visitout: "12.00"
+			"date: "10/11/2012",
+			"person": "Ashutosh Kalambe",
+			"visitin": "10.00",
+			"visitout": "12.00"
 		},
 		2: {
-			date: "13/11/2020",
-			person: "Mansi",
-			visitin: "10.00",
-			visitout: "12.00"
+			"date": "13/11/2020",
+			"person": "Mansi",
+			"visitin": "10.00",
+			"visitout": "12.00"
 		},
 		3: {
-			date: "15/11/2020",
-			person: "Jeet",
-			visitin: "10.00",
-			visitout: "12.00"
+			"date": "15/11/2020",
+			"person": "Jeet",
+			"visitin": "10.00",
+			"visitout": "12.00"
 		},
 		4: {
-			date: "20/11/2020",
-			person: "Urmila",
-			visitin: "10.00",
-			visitout: "12.00"
+			"date": "20/11/2020",
+			"person": "Urmila",
+			"visitin": "10.00",
+			"visitou"t: "12.00"
 		}
 	}
 }
