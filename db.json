@@ -1,13 +1,13 @@
 {
 	"user":{
-			id:1,
-			name: "Ashutosh Ganesh Kalambe",
-			designation: "Trainee Developer",
-			salary: 20000,
-			shift_and_timing: "10 AM to 6 PM",
-			department: "Android Developer",
-			email: "kalambe125@gmail.com",
-			mobile: "8898908400"
+			"id":1,
+			"name": "Ashutosh Ganesh Kalambe",
+			"designation": "Trainee Developer",
+			"salary": 20000,
+			"shift_and_timing": "10 AM to 6 PM",
+			"department": "Android Developer",
+			"email": "kalambe125@gmail.com",
+			"mobile": "8898908400"
 	},
 	"logs":{
 		1: {
